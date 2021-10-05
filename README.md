@@ -1,7 +1,7 @@
 ## Projeto de SpaceNaves
 ### Exibição do projeto no alert do Browser!
-        Consiste em um projeto básico onde ira perguntar nome da nave, quantidade de tripulantes, tipo de nave, e velocidade que deseja acelerar a nave. 
-        Escolhendo tipo de batalha terá a opção de dizer quantas armas sua nave de batalha possui, já no tipo de transporte pode informar quantos lugares a nave suporta.Após as escolhas ele ira voltar para uma caixa de mensagem perguntando se deseja acelerar novamente, trocar de nave e se quer sair/imprimir. Escolhendo sair ele mostrar o ultimo alet com os dados(nome, quantidade de tripulantes e velocidade atual).
+Consiste em um projeto básico onde ira perguntar nome da nave, quantidade de tripulantes, tipo de nave, e velocidade que deseja acelerar a nave. 
+Escolhendo tipo de batalha terá a opção de dizer quantas armas sua nave de batalha possui, já no tipo de transporte pode informar quantos lugares a nave suporta.Após as escolhas ele ira voltar para uma caixa de mensagem perguntando se deseja acelerar novamente, trocar de nave e se quer sair/imprimir. Escolhendo sair ele mostrar o ultimo alet com os dados(nome, quantidade de tripulantes e velocidade atual).
 
 ### Objetivo do projeto:
     Foi um projeto para exercitar a utilização de classes no JavaScript.
